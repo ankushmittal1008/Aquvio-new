@@ -6,7 +6,7 @@
 	"dependencies": {
 		"gh-pages": "^2.1.1",
 		"gulp": "^4.0.2",
-		"http-server": "^0.11.1",
+		"http-server": "^0.11.2",
 		"npm": "^6.13.6"
 	},
 	"devDependencies": {
